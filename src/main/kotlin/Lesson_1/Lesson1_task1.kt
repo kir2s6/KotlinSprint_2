@@ -1,6 +1,7 @@
 package Lesson_1
 
 fun main() {
-    println("Моя первая тестовая задача")
-    println("Моя первая доработка!")
+    val numberOrders=75
+    val thanksPurchase= "спасибо за покупку"
+    println("С вас $numberOrders рублей, $thanksPurchase")
 }
